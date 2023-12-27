@@ -1,0 +1,23 @@
+@using BOL;
+
+@{
+    ViewData["Title"] = "Product Page";
+}
+
+
+<div>
+    <h2>Product Details</h2>
+ 
+   @{
+    List<Product> theProduct= (List<Product>)ViewData["product"];
+     
+   foreach ( Product item in theProduct)
+    {
+      <p> Id: @item.Product_id</p>
+        <p> Description: @item.Pname</p>
+        <p> Unit Price: @item.Quantity</p>
+        <p> Stock Available: @item.Price</p>
+      }     
+     }
+   
+</div>
