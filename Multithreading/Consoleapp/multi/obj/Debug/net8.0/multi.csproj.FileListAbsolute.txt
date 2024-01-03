@@ -1,0 +1,15 @@
+C:\Users\IET\Desktop\dotnet\Multithreading\consoleapp\multi\bin\Debug\net8.0\multi.exe
+C:\Users\IET\Desktop\dotnet\Multithreading\consoleapp\multi\bin\Debug\net8.0\multi.deps.json
+C:\Users\IET\Desktop\dotnet\Multithreading\consoleapp\multi\bin\Debug\net8.0\multi.runtimeconfig.json
+C:\Users\IET\Desktop\dotnet\Multithreading\consoleapp\multi\bin\Debug\net8.0\multi.dll
+C:\Users\IET\Desktop\dotnet\Multithreading\consoleapp\multi\bin\Debug\net8.0\multi.pdb
+C:\Users\IET\Desktop\dotnet\Multithreading\consoleapp\multi\obj\Debug\net8.0\multi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\dotnet\Multithreading\consoleapp\multi\obj\Debug\net8.0\multi.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\dotnet\Multithreading\consoleapp\multi\obj\Debug\net8.0\multi.AssemblyInfo.cs
+C:\Users\IET\Desktop\dotnet\Multithreading\consoleapp\multi\obj\Debug\net8.0\multi.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\dotnet\Multithreading\consoleapp\multi\obj\Debug\net8.0\multi.sourcelink.json
+C:\Users\IET\Desktop\dotnet\Multithreading\consoleapp\multi\obj\Debug\net8.0\multi.dll
+C:\Users\IET\Desktop\dotnet\Multithreading\consoleapp\multi\obj\Debug\net8.0\refint\multi.dll
+C:\Users\IET\Desktop\dotnet\Multithreading\consoleapp\multi\obj\Debug\net8.0\multi.pdb
+C:\Users\IET\Desktop\dotnet\Multithreading\consoleapp\multi\obj\Debug\net8.0\multi.genruntimeconfig.cache
+C:\Users\IET\Desktop\dotnet\Multithreading\consoleapp\multi\obj\Debug\net8.0\ref\multi.dll
